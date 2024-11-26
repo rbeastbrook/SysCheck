@@ -26,7 +26,8 @@ This PowerShell script is designed to run a comprehensive system diagnostic on a
 ### Run the Script:
 1. Open PowerShell as **Administrator**.
 2. Copy and paste the script into PowerShell or save it as a `.ps1` file and execute it.
-Alternatively:
+
+**Alternatively:**
 1. Run the file as normal, it will automatically ask to elevate privileges
 
 ### Log File:
