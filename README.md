@@ -26,6 +26,8 @@ This PowerShell script is designed to run a comprehensive system diagnostic on a
 ### Run the Script:
 1. Open PowerShell as **Administrator**.
 2. Copy and paste the script into PowerShell or save it as a `.ps1` file and execute it.
+Alternatively:
+1. Run the file as normal, it will automatically ask to elevate privileges
 
 ### Log File:
 - The log file will be created in the `C:\logs` directory with a timestamp and the PC name in the filename, e.g., `PCName-2024-11-26_15-30-00.log`.
